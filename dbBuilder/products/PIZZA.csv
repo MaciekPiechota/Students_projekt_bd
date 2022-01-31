@@ -1,0 +1,59 @@
+PIZZA,Auchan - Pizza margherita,6.49,0.3,False,Auchan
+PIZZA,Auchan - Pizza 4 sery,6.99,0.32,False,Auchan
+PIZZA,Auchan - Pizza ham,6.99,0.32,False,Auchan
+PIZZA,Auchan - Pizza salami,6.99,0.32,False,Auchan
+PIZZA,Proste Historie - Pizza 4 sery,7.48,0.39,True,Auchan
+PIZZA,Auchan - Pizza grube ciasto 4 sery,7.49,0.35,False,Auchan
+PIZZA,Auchan - Pizza grube ciasto pepperoni,7.49,0.39,False,Auchan
+PIZZA,Auchan - Pizza grube ciasto szynka ,7.49,0.41,False,Auchan
+PIZZA,Auchan - Pizza grube ciasto szynka i pieczarki,7.49,0.425,False,Auchan
+PIZZA,Proste Historie - Bistro pizza z białą kiełbasą i chrzanem,7.88,0.385,False,Auchan
+PIZZA,Proste Historie - Bistro pizza z kabanosem i kiszonym ogórkiem,7.88,0.4,False,Auchan
+PIZZA,Proste Historie - Bistro pizza z kurczakiem i szpinakiem,7.88,0.435,False,Auchan
+PIZZA,Proste Historie - Pizza z pieczarkami,7.88,0.415,False,Auchan
+PIZZA,Proste Historie - Pizza z szynką i pieczarkami,7.88,0.42,False,Auchan
+PIZZA,Auchan - Pizza meat feast,8.49,0.38,False,Auchan
+PIZZA,Alberto - Pizza margherita ,10.44,0.9,False,Auchan
+PIZZA,Pizza & Salute - Pizza BIO Mia Margherita z mozzarellą i pomidorami,14.68,0.3,False,Auchan
+PIZZA,Vissana - Pizza 4 pory roku,16.09,0.44,False,Auchan
+PIZZA,Vissana - Pizza bufala,16.09,0.41,False,Auchan
+PIZZA,Vissana - Pizza gorgonzola,16.09,0.35,False,Auchan
+PIZZA,Vissana - Pizza tartufo,16.09,0.35,False,Auchan
+PIZZA,Glutenfree - Pizza Margherita bezglutenowa z serem mozzarella bez laktozy,17.39,0.36,False,Auchan
+PIZZA,Pizza & Salute - Pizza BIO z mozzarellą i 5 rodzajami warzyw,17.89,0.39,False,Auchan
+PIZZA,Pizza rodzinna z szynką i serem Donatello 600 g,12.99,0.6,False,Biedronka
+PIZZA,Pizza z kurczakiem Donatello 400 g,9.75,0.4,False,Biedronka
+PIZZA,Pizza 4 sery Guseppe 2x335 g,15.49,0.67,False,Biedronka
+PIZZA,Pizza familijna z szynką i pieczarkami Apetito 1 kg,8.99,1.0,False,Biedronka
+PIZZA,Pizza z szynką i pieczarkami Guseppe 2x425 g,15.49,0.85,False,Biedronka
+PIZZA,Dr. Oetker Guseppe Pizza 4 sery 335 g,6.99,0.335,True,Carrefour
+PIZZA,Dr. Oetker Guseppe Pizza z salami 380 g,6.99,0.38,True,Carrefour
+PIZZA,Dr. Oetker Guseppe Pizza z szynką i pieczarkami 425 g,6.99,0.425,True,Carrefour
+PIZZA,Dr. Oetker Guseppe Pizza z szynką 410 g,6.99,0.41,True,Carrefour
+PIZZA,Dr. Oetker Feliciana Classica Pizza Quattro formaggi 325 g,7.89,0.325,True,Carrefour
+PIZZA,Dr. Oetker Feliciana Classica Pizza Salame e Chorizo 320 g,7.89,0.32,True,Carrefour
+PIZZA,Dr. Oetker Guseppe Pizza z szynką i sosem czosnkowym 440 g,6.99,0.44,True,Carrefour
+PIZZA,Dr. Oetker Guseppe Smaki Świata Pizza Kebab 420 g,6.99,0.42,True,Carrefour
+PIZZA,Dr. Oetker Feliciana Classica Pizza Prosciutto e Pesto 360 g,7.89,0.36,True,Carrefour
+PIZZA,Dr. Oetker Ristorante Pizza Salame 320 g,15.99,0.32,False,Carrefour
+PIZZA,Proste Historie Bistro Zapiekanka z szynką i pieczarkami 200 g,4.19,0.2,False,Carrefour
+PIZZA,Proste Historie Bistro Zapiekanka z pieczarkami 200 g,4.19,0.2,False,Carrefour
+PIZZA,Dr. Oetker Feliciana Classica Pizza Margherita 325 g,8.99,0.325,False,Carrefour
+PIZZA,Dr. Oetker Mini pizza ser + pomidory 255 g (3 sztuki),8.79,0.255,False,Carrefour
+PIZZA,Dr. Oetker Ristorante Pizza Quattro Formaggi 340 g,15.99,0.34,False,Carrefour
+PIZZA,Schär Bontà d'Italia Pizza Salame bezglutenowa i bez laktozy 330 g,21.89,0.33,False,Carrefour
+PIZZA,Dr. Oetker Rigga Pizza z pieczarkami 260 g,7.39,0.26,False,Carrefour
+PIZZA,Dr. Oetker Ristorante Pizza Prosciutto 330 g,15.99,0.33,False,Carrefour
+PIZZA,Dr. Oetker Guseppe Smaki Świata Pizza Chicken curry 375 g,6.99,0.375,True,Carrefour
+PIZZA,Dr. Oetker Ristorante Pizza Hawaii 355 g,15.99,0.355,False,Carrefour
+PIZZA,Dr. Oetker Rigga Pizza z szynką 250 g,7.39,0.25,False,Carrefour
+PIZZA,Dr. Oetker Feliciana Classica Pizza Speciale 335 g,7.89,0.335,True,Carrefour
+PIZZA,Dr. Oetker Rigga Pizza z szynką i pieczarkami z sosem czosnkowym 270 g,7.39,0.27,False,Carrefour
+PIZZA,Dr. Oetker Feliciana Classica Pizza Pollo Ricotta 335 g,7.89,0.335,True,Carrefour
+PIZZA,Alberto Pizza Margherita 900 g (3 sztuki),10.45,0.9,False,Carrefour
+PIZZA,Dr. Oetker Ristorante Pizza Speciale 330 g,15.99,0.33,False,Carrefour
+PIZZA,Proste Historie Bistro Pizza cztery sery 390 g,7.49,0.39,True,Carrefour
+PIZZA,Proste Historie Bistro Pizza z pieczarkami 415 g,7.49,0.415,True,Carrefour
+PIZZA,Schär Pizza Margherita bezglutenowa i bez laktozy 300 g,18.39,0.3,False,Carrefour
+PIZZA,Proste Historie Bistro Pizza z kurczakiem i szpinakiem 435 g,7.49,0.435,True,Carrefour
+PIZZA,Dr. Oetker Mini pizza ser + szynka 270 g (3 sztuki),8.79,0.27,False,Carrefour

@@ -1,0 +1,2127 @@
+[
+   {
+      "CMSID":232,
+      "id":"2060",
+      "name":"Auchan Warszawa Modli\u0144ska",
+      "pageName":"Auchan-Warszawa-Modlinska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Modli\u0144ska 8, 03-216 Warszawa, Polska",
+         "postalCode":"03-216",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2954075",
+         "longitude":"21.0010401"
+      }
+   },
+   {
+      "CMSID":33667,
+      "id":"PL_00699_MAG",
+      "name":"Easy Auchan bp Rogatka",
+      "pageName":"easy-auchan-bp-rogatka",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"aleja 29 Listopada 39B, Krak\u00f3w, Polska",
+         "postalCode":"",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0788949",
+         "longitude":"19.9502976"
+      }
+   },
+   {
+      "CMSID":33666,
+      "id":"PL_00698_MAG",
+      "name":"Easy Auchan bp Zakopianka",
+      "pageName":"easy-auchan-bp-zakopianka",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Zakopia\u0144ska 107, 30-444 Krak\u00f3w, Polska",
+         "postalCode":"30-444",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.013183",
+         "longitude":"19.927504"
+      }
+   },
+   {
+      "CMSID":33665,
+      "id":"PL_00697_MAG",
+      "name":"Easy Auchan bp Pestka",
+      "pageName":"easy-auchan-bp-pestka",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Modli\u0144ska 54, 03-198 Warszawa, Polska",
+         "postalCode":"03-198",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.3055842",
+         "longitude":"20.9882237"
+      }
+   },
+   {
+      "CMSID":33662,
+      "id":"PL_00694_MAG",
+      "name":"Easy Auchan bp Grochowska",
+      "pageName":"easy-auchan-bp-grochowska",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Grochowska 149\/151, 04-139 Warszawa, Polska",
+         "postalCode":"04-139",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2428366",
+         "longitude":"21.0983129"
+      }
+   },
+   {
+      "CMSID":33664,
+      "id":"PL_00696_MAG",
+      "name":"Easy Auchan bp R\u0119kawka",
+      "pageName":"easy-auchan-bp-rekawka",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Pasternik 66, 31-354 Krak\u00f3w, Polska",
+         "postalCode":"31-354",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0959348",
+         "longitude":"19.8735649"
+      }
+   },
+   {
+      "CMSID":33663,
+      "id":"PL_00695_MAG",
+      "name":"Easy Auchan bp Kogut",
+      "pageName":"easy-auchan-bp-kogut",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Jana Roso\u0142a 68, 02-786 Warszawa, Polska",
+         "postalCode":"02-786",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.1565326",
+         "longitude":"21.0466316"
+      }
+   },
+   {
+      "CMSID":32303,
+      "id":"9876",
+      "name":"Moje Auchan Ostr\u00f3w \u017bwirki",
+      "pageName":"ostrow-wielkopolski-zwirki",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"F. \u017bwirki 15, 63-410 Ostr\u00f3w Wielkopolski, Polska",
+         "postalCode":"63-410",
+         "city":"Ostr\u00f3w Wielkopolski",
+         "region":"Wielkopolskie",
+         "country":"Polska",
+         "latitude":"51.637138",
+         "longitude":"17.811225"
+      }
+   },
+   {
+      "CMSID":1166,
+      "id":"2047",
+      "name":"Auchan Radom \u017b\u00f3\u0142kiewskiego",
+      "pageName":"Auchan-Radom-Zolkiewskiego",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Stanis\u0142awa \u017b\u00f3\u0142kiewskiego 4, 26-600 Radom, Polska",
+         "postalCode":"26-600",
+         "city":"Radom",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"51.4258096",
+         "longitude":"21.1552355"
+      }
+   },
+   {
+      "CMSID":32304,
+      "id":"8765",
+      "name":"Moje Auchan Ostr\u00f3w Sob\u00f3tka",
+      "pageName":"ostrow-wielkopolski-sobotka",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"Sob\u00f3tka 86, 63-450, Polska",
+         "postalCode":"63-450",
+         "city":"Sob\u00f3tka",
+         "region":"Wielkopolskie",
+         "country":"Polska",
+         "latitude":"51.7797426",
+         "longitude":"17.8568678"
+      }
+   },
+   {
+      "CMSID":1184,
+      "id":"2024",
+      "name":"Auchan Krak\u00f3w Al. Pokoju",
+      "pageName":"Auchan-Krakow-Al-Pokoju",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"al. Pokoju 67, 31-580 Krak\u00f3w, Polska",
+         "postalCode":"31-580",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0634658",
+         "longitude":"20.0027776"
+      }
+   },
+   {
+      "CMSID":1180,
+      "id":"2030",
+      "name":"Auchan Lublin Czech\u00f3w",
+      "pageName":"Auchan-Lublin-Czechow",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Doktora Witolda Chod\u017aki 14, 20-093 Lublin, Polska",
+         "postalCode":"20-093",
+         "city":"Lublin",
+         "region":"Lubelskie",
+         "country":"Polska",
+         "latitude":"51.265989",
+         "longitude":"22.559563"
+      }
+   },
+   {
+      "CMSID":1185,
+      "id":"1222",
+      "name":"Auchan Krak\u00f3w Al. Bora",
+      "pageName":"Auchan-Krakow-Bora",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Aleja Genera\u0142a Tadeusza Bora-Komorowskiego 37A, 31-476 Krak\u00f3w, Polska",
+         "postalCode":"31-476",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0877262",
+         "longitude":"19.979215"
+      }
+   },
+   {
+      "CMSID":29765,
+      "id":"9874",
+      "name":"Auchan Rzesz\u00f3w Okulickiego",
+      "pageName":"auchan-rzeszow-okulickiego",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Aleja Genera\u0142a Leopolda Okulickiego 20, 35-206 Rzesz\u00f3w, Polska",
+         "postalCode":"35-206",
+         "city":"Rzesz\u00f3w",
+         "region":"Podkarpackie",
+         "country":"Polska",
+         "latitude":"50.0533251",
+         "longitude":"21.9889431"
+      }
+   },
+   {
+      "CMSID":1168,
+      "id":"2044",
+      "name":"Auchan P\u0142ock",
+      "pageName":"Auchan-Plock",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Wyszogrodzka 140, 09-410 P\u0142ock, Polska",
+         "postalCode":"09-410",
+         "city":"P\u0142ock",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.5355112",
+         "longitude":"19.7505497"
+      }
+   },
+   {
+      "CMSID":1167,
+      "id":"2046",
+      "name":"Auchan Radom Ustronie",
+      "pageName":"Auchan-Radom-Ustronie",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Aleja J\u00f3zefa Grzecznarowskiego 21, 26-600 Radom, Polska",
+         "postalCode":"26-600",
+         "city":"Radom",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"51.382122",
+         "longitude":"21.1686346"
+      }
+   },
+   {
+      "CMSID":1162,
+      "id":"2056",
+      "name":"Auchan Toru\u0144 Copernicus",
+      "pageName":"Auchan-Torun-Copernicus",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Stanis\u0142awa \u017b\u00f3\u0142kiewskiego 15, 87-100 Toru\u0144, Polska",
+         "postalCode":"87-100",
+         "city":"Toru\u0144",
+         "region":"Kujawsko-Pomorskie",
+         "country":"Polska",
+         "latitude":"53.0252437",
+         "longitude":"18.6364808"
+      }
+   },
+   {
+      "CMSID":1187,
+      "id":"2021",
+      "name":"Auchan Kielce",
+      "pageName":"Auchan-Kielce",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Radomska 8, 25-451 Kielce, Polska",
+         "postalCode":"25-451",
+         "city":"Kielce",
+         "region":"\u015awi\u0119tokrzyskie",
+         "country":"Polska",
+         "latitude":"50.886676",
+         "longitude":"20.664574"
+      }
+   },
+   {
+      "CMSID":1202,
+      "id":"2005",
+      "name":"Auchan Bydgoszcz Kruszwicka",
+      "pageName":"Auchan-Bydgoszcz-Kruszwicka",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Kruszwicka 1, 85-213 Bydgoszcz, Polska",
+         "postalCode":"85-213",
+         "city":"Bydgoszcz",
+         "region":"Kujawsko-Pomorskie",
+         "country":"Polska",
+         "latitude":"53.1243314",
+         "longitude":"17.9849351"
+      }
+   },
+   {
+      "CMSID":1203,
+      "id":"2004",
+      "name":"Auchan Bydgoszcz Fordon",
+      "pageName":"Auchan-Bydgoszcz-Fordon",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Rejewskiego 3, 85-796 Bydgoszcz, Polska",
+         "postalCode":"85-796",
+         "city":"Bydgoszcz",
+         "region":"Kujawsko-Pomorskie",
+         "country":"Polska",
+         "latitude":"53.1365497",
+         "longitude":"18.1156844"
+      }
+   },
+   {
+      "CMSID":203,
+      "id":"2072",
+      "name":"Auchan \u017bory",
+      "pageName":"Auchan-Zory",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Francuska 11, 44-240 \u017bory, Polska",
+         "postalCode":"44-240",
+         "city":"\u017bory",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.0399539",
+         "longitude":"18.7036451"
+      }
+   },
+   {
+      "CMSID":11927,
+      "id":"639",
+      "name":"Auchan Supermarket Rzesz\u00f3w Paderewskiego",
+      "pageName":"supermarket-auchan-rzeszow-paderewskiego",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Ignacego Paderewskiego 35, 35-330 Rzesz\u00f3w, Polska",
+         "postalCode":"35-330",
+         "city":"Rzesz\u00f3w",
+         "region":"Podkarpackie",
+         "country":"Polska",
+         "latitude":"50.0275723",
+         "longitude":"22.0345176"
+      }
+   },
+   {
+      "CMSID":205,
+      "id":"2071",
+      "name":"Auchan Zielona G\u00f3ra",
+      "pageName":"Auchan-Zielona-Gora",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Rondo Stefana Batorego 128, 65-735 Zielona G\u00f3ra, Polska",
+         "postalCode":"65-735",
+         "city":"Zielona G\u00f3ra",
+         "region":"Lubuskie",
+         "country":"Polska",
+         "latitude":"51.9637444",
+         "longitude":"15.4900288"
+      }
+   },
+   {
+      "CMSID":155,
+      "id":"3004",
+      "name":"Auchan Supermarket Cz\u0119stochowa Le\u015bna",
+      "pageName":"Auchan-Supermarket-Czestochowa-Lesna",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Le\u015bna 4, 42-200 Cz\u0119stochowa, Polska",
+         "postalCode":"42-200",
+         "city":"Cz\u0119stochowa",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.7615323",
+         "longitude":"19.0615552"
+      }
+   },
+   {
+      "CMSID":2141,
+      "id":"3007",
+      "name":"Moje Auchan Zielonka",
+      "pageName":"Moje-Auchan-Zielonka",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"Prymasa Stefana Wyszy\u0144skiego 7\/, 05-220 Zielonka, Polska",
+         "postalCode":"05-220",
+         "city":"Zielonka",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.301915",
+         "longitude":"21.1618591"
+      }
+   },
+   {
+      "CMSID":142,
+      "id":"12339",
+      "name":"Moje Auchan Wilanowska",
+      "pageName":"moje-auchan-wilanowska",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"Aleja Wilanowska 89, 02-765 Warszawa, Polska",
+         "postalCode":"02-765",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.172722",
+         "longitude":"21.052939"
+      }
+   },
+   {
+      "CMSID":184,
+      "id":"12334",
+      "name":"Moje Auchan Warszawa Odkryta",
+      "pageName":"moje-auchan-warszawa-odkryta",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"Odkryta 62, 03-141 Warszawa, Polska",
+         "postalCode":"03-141",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.336313",
+         "longitude":"20.937947"
+      }
+   },
+   {
+      "CMSID":179,
+      "id":"2096",
+      "name":"Moje Auchan Katowice Szczeci\u0144ska",
+      "pageName":"Moje-Auchan-Katowice-Szczecinska",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"Szczeci\u0144ska 18, 40-139 Katowice, Polska",
+         "postalCode":"40-139",
+         "city":"Katowice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.278932",
+         "longitude":"19.012493"
+      }
+   },
+   {
+      "CMSID":180,
+      "id":"2097",
+      "name":"Moje Auchan Katowice Ligonia",
+      "pageName":"Moje-Auchan-Katowice-Ligonia",
+      "externalUrl":"",
+      "type":"4",
+      "address":{
+         "address":"Plebiscytowa 35A, 40-036 Katowice, Polska",
+         "postalCode":"40-036",
+         "city":"Katowice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.252843",
+         "longitude":"19.019553"
+      }
+   },
+   {
+      "CMSID":214,
+      "id":"2068",
+      "name":"Auchan Zabrze Szkubacza",
+      "pageName":"Auchan-Zabrze-Szkubacza",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Plut. R. Szkubacza 1, 41-800 Zabrze, Polska",
+         "postalCode":"41-800",
+         "city":"Zabrze",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.318362",
+         "longitude":"18.750545"
+      }
+   },
+   {
+      "CMSID":210,
+      "id":"2069",
+      "name":"Auchan Zabrze Platan",
+      "pageName":"Auchan-Zabrze-Platan",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"plac Teatralny 12, 41-800 Zabrze, Polska",
+         "postalCode":"41-800",
+         "city":"Zabrze",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.311564",
+         "longitude":"18.787475"
+      }
+   },
+   {
+      "CMSID":220,
+      "id":"2066",
+      "name":"Auchan Wroc\u0142aw Korona",
+      "pageName":"Auchan-Wroclaw-Korona",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Boles\u0142awa Krzywoustego 126, 51-421 Wroc\u0142aw, Polska",
+         "postalCode":"51-421",
+         "city":"Wroc\u0142aw",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.1426583",
+         "longitude":"17.0847249"
+      }
+   },
+   {
+      "CMSID":221,
+      "id":"2065",
+      "name":"Auchan Wroc\u0142aw Kobierzyce",
+      "pageName":"Auchan-Wroclaw-Kobierzyce",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Francuska 6, 55-040 Bielany Wroc\u0142awskie, Polska",
+         "postalCode":"55-040",
+         "city":"Bielany Wroc\u0142awskie",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.053395",
+         "longitude":"16.971784"
+      }
+   },
+   {
+      "CMSID":218,
+      "id":"2067",
+      "name":"Auchan W\u0142oc\u0142awek",
+      "pageName":"Auchan-Wloclawek",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Cmentarna 10, 87-800 W\u0142oc\u0142awek, Polska",
+         "postalCode":"87-800",
+         "city":"W\u0142oc\u0142awek",
+         "region":"Kujawsko-Pomorskie",
+         "country":"Polska",
+         "latitude":"52.641348",
+         "longitude":"19.071515"
+      }
+   },
+   {
+      "CMSID":223,
+      "id":"2063",
+      "name":"Auchan Warszawa Wola",
+      "pageName":"Auchan-Warszawa-Wola",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"G\u00f3rczewska 124, 01-460 Warszawa, Polska",
+         "postalCode":"01-460",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.242592",
+         "longitude":"20.9286141"
+      }
+   },
+   {
+      "CMSID":224,
+      "id":"2062",
+      "name":"Auchan Warszawa Ursyn\u00f3w",
+      "pageName":"Auchan-Warszawa-Ursynow",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Pu\u0142awska 427, 02-801 Warszawa, Polska",
+         "postalCode":"02-801",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.141489",
+         "longitude":"21.027250"
+      }
+   },
+   {
+      "CMSID":228,
+      "id":"2061",
+      "name":"Auchan Warszawa Ok\u0119cie",
+      "pageName":"Auchan-Warszawa-Okecie",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Aleja Krakowska 61, 02-183 Warszawa, Polska",
+         "postalCode":"02-183",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.1711939",
+         "longitude":"20.9349636"
+      }
+   },
+   {
+      "CMSID":1159,
+      "id":"2059",
+      "name":"Auchan Warszawa Jubilerska",
+      "pageName":"Auchan-Warszawa-Jubilerska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Jubilerska 6F, 04-190 Warszawa, Polska",
+         "postalCode":"04-190",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2353023",
+         "longitude":"21.1172133"
+      }
+   },
+   {
+      "CMSID":222,
+      "id":"2064",
+      "name":"Auchan Wa\u0142brzych",
+      "pageName":"Auchan-Walbrzych",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Henryka Wieniawskiego 19, 58-309 Wa\u0142brzych, Polska",
+         "postalCode":"58-309",
+         "city":"Wa\u0142brzych",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"50.821879",
+         "longitude":"16.2893146"
+      }
+   },
+   {
+      "CMSID":1160,
+      "id":"2058",
+      "name":"Auchan Tychy",
+      "pageName":"Auchan-Tychy",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"AUCHAN, al. Bielska 107, 43-100 Tychy, Polska",
+         "postalCode":"43-100",
+         "city":"Tychy",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.1087738",
+         "longitude":"18.9789637"
+      }
+   },
+   {
+      "CMSID":1161,
+      "id":"2057",
+      "name":"Auchan Toru\u0144 Grudzi\u0105dzka",
+      "pageName":"Auchan-Torun-Grudziadzka",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Grudzi\u0105dzka 162, 87-100 Toru\u0144, Polska",
+         "postalCode":"87-100",
+         "city":"Toru\u0144",
+         "region":"Kujawsko-Pomorskie",
+         "country":"Polska",
+         "latitude":"53.0350459",
+         "longitude":"18.6151421"
+      }
+   },
+   {
+      "CMSID":1163,
+      "id":"2055",
+      "name":"Auchan Tarn\u00f3w",
+      "pageName":"Auchan-Tarnow",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"B\u0142onie 2, 33-110 Tarn\u00f3w, Polska",
+         "postalCode":"33-110",
+         "city":"Tarn\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0346892",
+         "longitude":"21.0045831"
+      }
+   },
+   {
+      "CMSID":1164,
+      "id":"2054",
+      "name":"Auchan Szczecin Struga",
+      "pageName":"Auchan-Szczecin-Struga",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Andrzeja Struga 36, 70-784 Szczecin, Polska",
+         "postalCode":"70-784",
+         "city":"Szczecin",
+         "region":"Zachodniopomorskie",
+         "country":"Polska",
+         "latitude":"53.381131",
+         "longitude":"14.66711"
+      }
+   },
+   {
+      "CMSID":177,
+      "id":"2053",
+      "name":"Auchan Szczecin Ko\u0142baskowo",
+      "pageName":"Auchan-Szczecin-Kolbaskowo",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Ustowo 45, 70-001 Szczecin, Polska",
+         "postalCode":"70-001",
+         "city":"Szczecin",
+         "region":"Zachodniopomorskie",
+         "country":"Polska",
+         "latitude":"53.3847583",
+         "longitude":"14.5062857"
+      }
+   },
+   {
+      "CMSID":1165,
+      "id":"2052",
+      "name":"Auchan Szczecin Galaxy",
+      "pageName":"Auchan-Szczecin-Galaxy",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"aleja Wyzwolenia 18-20, 70-554 Szczecin, Polska",
+         "postalCode":"70-554",
+         "city":"Szczecin",
+         "region":"Zachodniopomorskie",
+         "country":"Polska",
+         "latitude":"53.4345858",
+         "longitude":"14.5546554"
+      }
+   },
+   {
+      "CMSID":154,
+      "id":"258333",
+      "name":"Auchan Supermarket Wroc\u0142aw Ustronie",
+      "pageName":"Auchan-Supermarket-Wroc\u0142aw-Ustronie",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Ustronie 1, 50-302 Wroc\u0142aw, Polska",
+         "postalCode":"50-302",
+         "city":"Wroc\u0142aw",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.12774",
+         "longitude":"17.04957"
+      }
+   },
+   {
+      "CMSID":150,
+      "id":"3008",
+      "name":"Auchan Supermarket Wroc\u0142aw Hubska",
+      "pageName":"Auchan-Supermarket-Wroclaw-Hubska",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Hubska 102, 50-505 Wroc\u0142aw, Polska",
+         "postalCode":"50-505",
+         "city":"Wroc\u0142aw",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.0866141",
+         "longitude":"17.0467536"
+      }
+   },
+   {
+      "CMSID":159,
+      "id":"568",
+      "name":"Auchan Supermarket Warszawa Soko\u0142owska",
+      "pageName":"auchan-supermarket-warszawa-sokolowska",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Soko\u0142owska 9, 01-142 Warszawa, Polska",
+         "postalCode":"01-142",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2348542",
+         "longitude":"20.958142"
+      }
+   },
+   {
+      "CMSID":157,
+      "id":"2086",
+      "name":"Auchan Supermarket Warszawa Mo\u0142dawska",
+      "pageName":"Auchan-Supermarket-Warszawa-Moldawska",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Mo\u0142dawska 7A, 02-132 Warszawa, Polska",
+         "postalCode":"02-132",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.1985652",
+         "longitude":"20.9779869"
+      }
+   },
+   {
+      "CMSID":178,
+      "id":"2095",
+      "name":"Auchan Supermarket Warszawa Meksyka\u0144ska",
+      "pageName":"Auchan-Supermarket-Warszawa-Meksykanska",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Meksyka\u0144ska 8, 03-948 Warszawa, Polska",
+         "postalCode":"03-948",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2309953",
+         "longitude":"21.0600726"
+      }
+   },
+   {
+      "CMSID":167,
+      "id":"2089",
+      "name":"Auchan Supermarket Warszawa Kobielska",
+      "pageName":"Auchan-Supermarket-Warszawa-Kobielska",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Kobielska 23, 04-359 Warszawa, Polska",
+         "postalCode":"04-359",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2471277",
+         "longitude":"21.0853323"
+      }
+   },
+   {
+      "CMSID":148,
+      "id":"3000",
+      "name":"Auchan Supermarket Warszawa Broniewskiego",
+      "pageName":"Auchan-Supermarket-Warszawa-Broniewskiego",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"W\u0142adys\u0142awa Broniewskiego 28, 01-771 Warszawa, Polska",
+         "postalCode":"01-771",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2671734",
+         "longitude":"20.9636427"
+      }
+   },
+   {
+      "CMSID":176,
+      "id":"2094",
+      "name":"Auchan Supermarket Warszawa Bonifacego",
+      "pageName":"Auchan-Supermarket-Warszawa-Bonifacego",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"\u015awi\u0119tego Bonifacego 70, 02-761 Warszawa, Polska",
+         "postalCode":"02-761",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.180628",
+         "longitude":"21.055282"
+      }
+   },
+   {
+      "CMSID":2133,
+      "id":"3001",
+      "name":"Auchan Supermarket Tarn\u00f3w",
+      "pageName":"Auchan-Supermarket-Tarnow",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"aleja Jana Paw\u0142a II 8, 33-104 Tarn\u00f3w, Polska",
+         "postalCode":"33-104",
+         "city":"Tarn\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.024535",
+         "longitude":"21.0115619"
+      }
+   },
+   {
+      "CMSID":182,
+      "id":"2099",
+      "name":"Auchan Supermarket \u015awiatowida",
+      "pageName":"Auchan-Supermarket-Swiatowida",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"\u015awiatowida 57, 03-144 Warszawa, Polska",
+         "postalCode":"03-144",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.328581",
+         "longitude":"20.939792"
+      }
+   },
+   {
+      "CMSID":173,
+      "id":"2092",
+      "name":"Auchan Supermarket Siemianowice",
+      "pageName":"Auchan-Supermarket-Siemianowice",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Ko\u015bcielna 30, 41-103 Siemianowice \u015al\u0105skie, Polska",
+         "postalCode":"41-103",
+         "city":"Siemianowice \u015al\u0105skie",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.323089",
+         "longitude":"19.003662"
+      }
+   },
+   {
+      "CMSID":181,
+      "id":"2098",
+      "name":"Auchan Supermarket Piast\u00f3w",
+      "pageName":"Auchan-Supermarket-Piastow",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Warszawska 43, 05-820 Piast\u00f3w, Polska",
+         "postalCode":"05-820",
+         "city":"Piast\u00f3w",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.183854",
+         "longitude":"20.838896"
+      }
+   },
+   {
+      "CMSID":2132,
+      "id":"6667",
+      "name":"Auchan Supermarket My\u015blenice",
+      "pageName":"auchan-supermarket-myslenice",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"S\u0142oneczna 2E, 32-400 My\u015blenice, Polska",
+         "postalCode":"32-400",
+         "city":"My\u015blenice",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"49.836327",
+         "longitude":"19.947543"
+      }
+   },
+   {
+      "CMSID":2130,
+      "id":"208670",
+      "name":"Auchan Supermarket Limanowa Zwirki i Wigury",
+      "pageName":"auchan-supermarket-limanowa-zwirki-i-wigury",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"\u017bwirki i Wigury 4, 34-600 Limanowa, Polska",
+         "postalCode":"34-600",
+         "city":"Limanowa",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"49.7003109",
+         "longitude":"20.4165211"
+      }
+   },
+   {
+      "CMSID":2137,
+      "id":"3005",
+      "name":"Auchan Supermarket Limanowa Krakowska",
+      "pageName":"auchan-supermarket-limanowa-krakowska",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Krakowska 8, 34-600 Limanowa, Polska",
+         "postalCode":"34-600",
+         "city":"Limanowa",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"49.721758",
+         "longitude":"20.401442"
+      }
+   },
+   {
+      "CMSID":174,
+      "id":"2093",
+      "name":"Auchan Supermarket Katowice Panewnicka",
+      "pageName":"Auchan-Supermarket-Katowice-Panewnicka",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Panewnicka 141, 40-772 Katowice, Polska",
+         "postalCode":"40-772",
+         "city":"Katowice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.230244",
+         "longitude":"18.949478"
+      }
+   },
+   {
+      "CMSID":169,
+      "id":"2090",
+      "name":"Auchan Supermarket Gliwice",
+      "pageName":"Auchan-Supermarket-Gliwice",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Szafirowa 55, 44-100 Gliwice, Polska",
+         "postalCode":"44-100",
+         "city":"Gliwice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.313117",
+         "longitude":"18.617146"
+      }
+   },
+   {
+      "CMSID":190,
+      "id":"2080",
+      "name":"Auchan Supermarket Gdynia",
+      "pageName":"Auchan-Supermarket-Gdynia",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Red\u0142owska 41, 81-001 Gdynia, Polska",
+         "postalCode":"81-001",
+         "city":"Gdynia",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.496581",
+         "longitude":"18.540436"
+      }
+   },
+   {
+      "CMSID":2131,
+      "id":"20865",
+      "name":"Auchan Supermarket Gda\u0144sk",
+      "pageName":"auchan-supermarket-gdansk",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Z\u0142ota Karczma 26, 80-298 Gda\u0144sk, Polska",
+         "postalCode":"80-298",
+         "city":"Gda\u0144sk",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.371873",
+         "longitude":"18.5201034"
+      }
+   },
+   {
+      "CMSID":153,
+      "id":"2582",
+      "name":"Auchan Supermarket Cz\u0119stochowa Focha",
+      "pageName":"Auchan-Supermarket-Czestochowa-Focha",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Focha 7\/15, 42-217 Cz\u0119stochowa, Polska",
+         "postalCode":"42-217",
+         "city":"Cz\u0119stochowa",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.806097",
+         "longitude":"19.115769"
+      }
+   },
+   {
+      "CMSID":2125,
+      "id":"3003",
+      "name":"Auchan Supermarket Bytom",
+      "pageName":"Auchan-Supermarket-Bytom",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"Kolejowa 18, 41-902 Bytom, Polska",
+         "postalCode":"41-902",
+         "city":"Bytom",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.3452848",
+         "longitude":"18.9110439"
+      }
+   },
+   {
+      "CMSID":151,
+      "id":"2081",
+      "name":"Auchan Supermarket Bieru\u0144",
+      "pageName":"Auchan-Supermarket-Bierun",
+      "externalUrl":"",
+      "type":"5",
+      "address":{
+         "address":"O\u015bwi\u0119cimska 425, 43-150 Bieru\u0144, Polska",
+         "postalCode":"43-150",
+         "city":"Bieru\u0144",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.097082",
+         "longitude":"19.089695"
+      }
+   },
+   {
+      "CMSID":138,
+      "id":"2051",
+      "name":"Auchan Sosnowiec",
+      "pageName":"Auchan-Sosnowiec",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Zuzanny 20, 41-219 Sosnowiec, Polska",
+         "postalCode":"41-219",
+         "city":"Sosnowiec",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.3022684",
+         "longitude":"19.161822"
+      }
+   },
+   {
+      "CMSID":139,
+      "id":"2050",
+      "name":"Auchan Rzesz\u00f3w Krasne",
+      "pageName":"Auchan-Rzeszow-Krasne",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Krasne 20B, 36-007, Polska",
+         "postalCode":"36-007",
+         "city":"Krasne",
+         "region":"Podkarpackie",
+         "country":"Polska",
+         "latitude":"50.038224",
+         "longitude":"22.0699489"
+      }
+   },
+   {
+      "CMSID":146,
+      "id":"2049",
+      "name":"Auchan Rybnik",
+      "pageName":"Auchan-Rybnik",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Jana Kotucza 100, 44-210 Rybnik, Polska",
+         "postalCode":"44-210",
+         "city":"Rybnik",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.0955432",
+         "longitude":"18.5268659"
+      }
+   },
+   {
+      "CMSID":187,
+      "id":"2048",
+      "name":"Auchan Rumia",
+      "pageName":"Auchan-Rumia",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Grunwaldzka 108, 84-230 Rumia, Polska",
+         "postalCode":"84-230",
+         "city":"Rumia",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.5863375",
+         "longitude":"18.3711997"
+      }
+   },
+   {
+      "CMSID":161,
+      "id":"6543",
+      "name":"Auchan Racib\u00f3rz",
+      "pageName":"Auchan-Raciborz",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"47-400 Racib\u00f3rz, Polska",
+         "postalCode":"47-400",
+         "city":"Racib\u00f3rz",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.0895294",
+         "longitude":"18.2575602"
+      }
+   },
+   {
+      "CMSID":1169,
+      "id":"2043",
+      "name":"Auchan Pozna\u0144 Szwajcarska",
+      "pageName":"Auchan-Poznan-Szwajcarska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Szwajcarska 14, 61-285 Pozna\u0144, Polska",
+         "postalCode":"61-285",
+         "city":"Pozna\u0144",
+         "region":"Wielkopolskie",
+         "country":"Polska",
+         "latitude":"52.3831672",
+         "longitude":"16.9942398"
+      }
+   },
+   {
+      "CMSID":136,
+      "id":"2042",
+      "name":"Auchan Pozna\u0144 Swadzim",
+      "pageName":"Auchan-Poznan-Swadzim",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"\u015aw. Antoniego 2, 62-080 Swadzim, Polska",
+         "postalCode":"62-080",
+         "city":"Swadzim",
+         "region":"Wielkopolskie",
+         "country":"Polska",
+         "latitude":"52.441076",
+         "longitude":"16.7571679"
+      }
+   },
+   {
+      "CMSID":1170,
+      "id":"2041",
+      "name":"Auchan Pozna\u0144 Komorniki",
+      "pageName":"Auchan-Poznan-Komorniki",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"G\u0142ogowska 432, 60-004 Pozna\u0144, Polska",
+         "postalCode":"60-004",
+         "city":"Pozna\u0144",
+         "region":"Wielkopolskie",
+         "country":"Polska",
+         "latitude":"52.3542549",
+         "longitude":"16.8352371"
+      }
+   },
+   {
+      "CMSID":1171,
+      "id":"2040",
+      "name":"Auchan Pozna\u0144 Bukowska",
+      "pageName":"Auchan-Poznan-Bukowska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Bukowska 170, 60-189 Pozna\u0144, Polska",
+         "postalCode":"60-189",
+         "city":"Pozna\u0144",
+         "region":"Wielkopolskie",
+         "country":"Polska",
+         "latitude":"52.4107894",
+         "longitude":"16.8581195"
+      }
+   },
+   {
+      "CMSID":1172,
+      "id":"2039",
+      "name":"Auchan Piotrk\u00f3w Trybunalski",
+      "pageName":"Auchan-Piotrkow-Trybunalski",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"aleje Genera\u0142a W\u0142adys\u0142awa Sikorskiego 13\/17, 97-300 Piotrk\u00f3w Trybunalski, Polska",
+         "postalCode":"97-300",
+         "city":"Piotrk\u00f3w Trybunalski",
+         "region":"\u0141\u00f3dzkie",
+         "country":"Polska",
+         "latitude":"51.4045409",
+         "longitude":"19.6610579"
+      }
+   },
+   {
+      "CMSID":144,
+      "id":"2038",
+      "name":"Auchan Piaseczno",
+      "pageName":"auchan-piaseczno",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Pu\u0142awska 46, 05-500 Piaseczno, Polska",
+         "postalCode":"05-500",
+         "city":"Piaseczno",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.0955052",
+         "longitude":"21.0203755"
+      }
+   },
+   {
+      "CMSID":1173,
+      "id":"2037",
+      "name":"Auchan Opole Sosnkowskiego",
+      "pageName":"Auchan-Opole-Sosnkowskiego",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Genera\u0142a Kazimierza Sosnkowskiego 16, 45-267 Opole, Polska",
+         "postalCode":"45-267",
+         "city":"Opole",
+         "region":"Opolskie",
+         "country":"Polska",
+         "latitude":"50.6747222",
+         "longitude":"17.9472222"
+      }
+   },
+   {
+      "CMSID":1174,
+      "id":"2036",
+      "name":"Auchan Opole Karolinka",
+      "pageName":"Auchan-Opole-Karolinka",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Wroc\u0142awska 154, 45-835 Opole, Polska",
+         "postalCode":"45-835",
+         "city":"Opole",
+         "region":"Opolskie",
+         "country":"Polska",
+         "latitude":"50.682672",
+         "longitude":"17.8782775"
+      }
+   },
+   {
+      "CMSID":1175,
+      "id":"2035",
+      "name":"Auchan Olsztyn",
+      "pageName":"Auchan-Olsztyn",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Aleja Genera\u0142a W\u0142adys\u0142awa Sikorskiego 2B, 10-088 Olsztyn, Polska",
+         "postalCode":"10-088",
+         "city":"Olsztyn",
+         "region":"Warmi\u0144sko-Mazurskie",
+         "country":"Polska",
+         "latitude":"53.7504612",
+         "longitude":"20.4807853"
+      }
+   },
+   {
+      "CMSID":1176,
+      "id":"2034",
+      "name":"Auchan Nowy S\u0105cz",
+      "pageName":"Auchan-Nowy-Sacz",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Gorzkowska 32, 33-300 Nowy S\u0105cz, Polska",
+         "postalCode":"33-300",
+         "city":"Nowy S\u0105cz",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"49.604422",
+         "longitude":"20.7268109"
+      }
+   },
+   {
+      "CMSID":1178,
+      "id":"2032",
+      "name":"Auchan Miko\u0142\u00f3w",
+      "pageName":"Auchan-Mikolow",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Gliwicka 3, 43-190 Miko\u0142\u00f3w, Polska",
+         "postalCode":"43-190",
+         "city":"Miko\u0142\u00f3w",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.1785714",
+         "longitude":"18.8845013"
+      }
+   },
+   {
+      "CMSID":1179,
+      "id":"2031",
+      "name":"Auchan Marki",
+      "pageName":"Auchan-Marki",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Pi\u0142sudskiego 1, 05-270 Marki, Polska",
+         "postalCode":"05-270",
+         "city":"Marki",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.3059693",
+         "longitude":"21.0849093"
+      }
+   },
+   {
+      "CMSID":143,
+      "id":"2029",
+      "name":"Auchan Lublin Al.Witosa 32A",
+      "pageName":"Auchan-Lublin-Al-Witosa",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"al. Wincentego Witosa 32a, 20-315 Lublin, Polska",
+         "postalCode":"20-315",
+         "city":"Lublin",
+         "region":"Lubelskie",
+         "country":"Polska",
+         "latitude":"51.231276",
+         "longitude":"22.611893"
+      }
+   },
+   {
+      "CMSID":199,
+      "id":"2074",
+      "name":"Auchan \u0141\u00f3d\u017a Manufaktura",
+      "pageName":"Auchan-Lodz-Manufaktura",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"CH Manufaktura, Jana Karskiego 5A, 91-071 \u0141\u00f3d\u017a, Polska",
+         "postalCode":"91-071",
+         "city":"\u0141\u00f3d\u017a",
+         "region":"\u0141\u00f3dzkie",
+         "country":"Polska",
+         "latitude":"51.7790294",
+         "longitude":"19.4418673"
+      }
+   },
+   {
+      "CMSID":200,
+      "id":"2073",
+      "name":"Auchan \u0141\u00f3d\u017a Brzezi\u0144ska",
+      "pageName":"Auchan-Lodz-Brzezinska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Stokowska 27, 92-104 \u0141\u00f3d\u017a, Polska",
+         "postalCode":"92-103",
+         "city":"\u0141\u00f3d\u017a",
+         "region":"\u0141\u00f3dzkie",
+         "country":"Polska",
+         "latitude":"51.7932472",
+         "longitude":"19.5067317"
+      }
+   },
+   {
+      "CMSID":137,
+      "id":"2027",
+      "name":"Auchan Legnica",
+      "pageName":"Auchan-Legnica",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Roberta Schumana 11, 59-220 Legnica, Polska",
+         "postalCode":"59-220",
+         "city":"Legnica",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.1861249",
+         "longitude":"16.169757"
+      }
+   },
+   {
+      "CMSID":1182,
+      "id":"2026",
+      "name":"Auchan Krak\u00f3w Bronowice",
+      "pageName":"Auchan-Krakow-Bronowice",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Stawowa 61, 31-346 Krak\u00f3w, Polska",
+         "postalCode":"31-346",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0926005",
+         "longitude":"19.896874"
+      }
+   },
+   {
+      "CMSID":1183,
+      "id":"2025",
+      "name":"Auchan Krak\u00f3w Bonarka",
+      "pageName":"Auchan-Krakow-Bonarka",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Kamie\u0144skiego 11, 30-644 Krak\u00f3w, Polska",
+         "postalCode":"30-644",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.0287104",
+         "longitude":"19.9492125"
+      }
+   },
+   {
+      "CMSID":1186,
+      "id":"2022",
+      "name":"Auchan Kobylnica k\/ S\u0142upska",
+      "pageName":"Auchan-Kobylnica-k-slupska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Szczeci\u0144ska 6, 76-251 Kobylnica, Polska",
+         "postalCode":"76-251",
+         "city":"Kobylnica",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.454408",
+         "longitude":"16.9735724"
+      }
+   },
+   {
+      "CMSID":1188,
+      "id":"2020",
+      "name":"Auchan Katowice 3 Stawy",
+      "pageName":"Auchan-Katowice-3-Stawy",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Pu\u0142askiego 60, 40-028 Katowice, Polska",
+         "postalCode":"40-028",
+         "city":"Katowice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.2432158",
+         "longitude":"19.0394438"
+      }
+   },
+   {
+      "CMSID":145,
+      "id":"2018",
+      "name":"Auchan Jelenia G\u00f3ra",
+      "pageName":"Auchan-Jelenia-Gora",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Aleja Jana Paw\u0142a II 51, 58-500 Jelenia G\u00f3ra, Polska",
+         "postalCode":"58-500",
+         "city":"Jelenia G\u00f3ra",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"50.921825",
+         "longitude":"15.762225"
+      }
+   },
+   {
+      "CMSID":1190,
+      "id":"2017",
+      "name":"Auchan Janki",
+      "pageName":"Auchan-Janki",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Mszczonowska 3, 05-090 Janki, Polska",
+         "postalCode":"05-090",
+         "city":"Janki",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.1353378",
+         "longitude":"20.8890918"
+      }
+   },
+   {
+      "CMSID":1192,
+      "id":"2015",
+      "name":"Auchan Gliwice",
+      "pageName":"Auchan-Gliwice",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Rybnicka 207, 44-122 Gliwice, Polska",
+         "postalCode":"44-122",
+         "city":"Gliwice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.2564661",
+         "longitude":"18.6566091"
+      }
+   },
+   {
+      "CMSID":1193,
+      "id":"2014",
+      "name":"Auchan Gdynia",
+      "pageName":"Auchan-Gdynia",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Kazimierza G\u00f3rskiego 2, 81-304 Gdynia, Polska",
+         "postalCode":"81-304",
+         "city":"Gdynia",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.5046621",
+         "longitude":"18.5317863"
+      }
+   },
+   {
+      "CMSID":1196,
+      "id":"2011",
+      "name":"Auchan Gda\u0144sk Szcz\u0119\u015bliwa",
+      "pageName":"Gdansk-Szczesliwa",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Szcz\u0119\u015bliwa 3, 80-177 Gda\u0144sk, Polska",
+         "postalCode":"80-177",
+         "city":"Gda\u0144sk",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.35159",
+         "longitude":"18.5253557"
+      }
+   },
+   {
+      "CMSID":1194,
+      "id":"2013",
+      "name":"Auchan Gda\u0144sk Osowa",
+      "pageName":"Auchan-Gdansk-Osowa",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Spacerowa 48, 80-299 Gda\u0144sk, Polska",
+         "postalCode":"80-299",
+         "city":"Gda\u0144sk",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.4257963",
+         "longitude":"18.4890462"
+      }
+   },
+   {
+      "CMSID":1195,
+      "id":"2012",
+      "name":"Auchan Gda\u0144sk Ko\u0142obrzeska",
+      "pageName":"Auchan-Gdansk-Kolobrzeska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Ko\u0142obrzeska 32, 80-984 Gda\u0144sk, Polska",
+         "postalCode":"80-984",
+         "city":"Gda\u0144sk",
+         "region":"Pomorskie",
+         "country":"Polska",
+         "latitude":"54.4026557",
+         "longitude":"18.5880927"
+      }
+   },
+   {
+      "CMSID":1197,
+      "id":"2010",
+      "name":"Auchan D\u0105browa G\u00f3rnicza Pogoria",
+      "pageName":"Auchan-Dabrowa-Gornicza-Pogoria",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Jana III Sobieskiego 6, 41-300 D\u0105browa G\u00f3rnicza, Polska",
+         "postalCode":"41-300",
+         "city":"D\u0105browa G\u00f3rnicza",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.326828",
+         "longitude":"19.182969"
+      }
+   },
+   {
+      "CMSID":1199,
+      "id":"2008",
+      "name":"Auchan Cz\u0119stochowa P\u00f3\u0142noc",
+      "pageName":"Auchan-Czestochowa-Polnoc",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Kisielewskiego 8\/16, 42-215 Cz\u0119stochowa, Polska",
+         "postalCode":"42-215",
+         "city":"Cz\u0119stochowa",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.836929",
+         "longitude":"19.1153723"
+      }
+   },
+   {
+      "CMSID":1200,
+      "id":"2007",
+      "name":"Auchan Cz\u0119stochowa Poczesna",
+      "pageName":"Auchan-Czestochowa-Poczesna",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Krakowska 10, 42-264 Cz\u0119stochowa, Polska",
+         "postalCode":"42-262",
+         "city":"Poczesna",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.7300468",
+         "longitude":"19.156136"
+      }
+   },
+   {
+      "CMSID":1201,
+      "id":"2006",
+      "name":"Auchan Bytom",
+      "pageName":"Auchan-Bytom",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Strzelc\u00f3w Bytomskich 96, 41-914 Bytom, Polska",
+         "postalCode":"41-914",
+         "city":"Bytom",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.380555",
+         "longitude":"18.890081"
+      }
+   },
+   {
+      "CMSID":1204,
+      "id":"2003",
+      "name":"Auchan Bielsko-Bia\u0142a",
+      "pageName":"Auchan-Bielsko-Biala",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Bohater\u00f3w Monte Cassino 421, 43-300 Bielsko-Bia\u0142a, Polska",
+         "postalCode":"43-300",
+         "city":"Bielsko-Bia\u0142a",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"49.8316699",
+         "longitude":"18.9818907"
+      }
+   },
+   {
+      "CMSID":1205,
+      "id":"2002",
+      "name":"Auchan Bia\u0142ystok Produkcyjna",
+      "pageName":"Auchan-Bialystok-Produkcyjna",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Produkcyjna 84, 15-680 Bia\u0142ystok, Polska",
+         "postalCode":"15-680",
+         "city":"Bia\u0142ystok",
+         "region":"Podlaskie",
+         "country":"Polska",
+         "latitude":"53.162173",
+         "longitude":"23.097072"
+      }
+   },
+   {
+      "CMSID":140,
+      "id":"2001",
+      "name":"Auchan Bia\u0142ystok Hetma\u0144ska",
+      "pageName":"auchan-bialystok-hetmanska",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Hetma\u0144ska 26, 15-727 Bia\u0142ystok, Polska",
+         "postalCode":"15-727",
+         "city":"Bia\u0142ystok",
+         "region":"Podlaskie",
+         "country":"Polska",
+         "latitude":"53.1351265",
+         "longitude":"23.1204206"
+      }
+   },
+   {
+      "CMSID":13144,
+      "id":"PL_00692_MAG",
+      "name":"easy Auchan bp Weso\u0142a",
+      "pageName":"easy-auchan-bp-wesola",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Trakt Brzeski 50, 01-001 Warszawa, Polska",
+         "postalCode":"01-001",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2231214",
+         "longitude":"21.229863"
+      }
+   },
+   {
+      "CMSID":13038,
+      "id":"PL_00693_MAG",
+      "name":"easy Auchan bp Rado\u015b\u0107",
+      "pageName":"easy-Auchan-bp-Radosc",
+      "externalUrl":"",
+      "type":"easy-auchan",
+      "address":{
+         "address":"Patriot\u00f3w 317, 04-761 Warszawa, Polska",
+         "postalCode":"04-761",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2047655",
+         "longitude":"21.1667154"
+      }
+   },
+   {
+      "CMSID":2199,
+      "id":"2077",
+      "name":"Auchan \u0141omianki",
+      "pageName":"Auchan-Lomianki",
+      "externalUrl":"",
+      "type":"hipermarket",
+      "address":{
+         "address":"Brukowa 25, 05-092 \u0141omianki, Polska",
+         "postalCode":"05-092",
+         "city":"\u0141omianki",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.32665",
+         "longitude":"20.90028"
+      }
+   },
+   {
+      "CMSID":158,
+      "id":"2087",
+      "name":"Auchan Supermarket Zabrze",
+      "pageName":"Auchan-Supermarket-Zabrze",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"de Gaulle'a 111, 41-800 Zabrze, Polska",
+         "postalCode":"41-800",
+         "city":"Zabrze",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.292112",
+         "longitude":"18.7828171"
+      }
+   },
+   {
+      "CMSID":2136,
+      "id":"3002",
+      "name":"Auchan Supermarket Wroc\u0142aw Zwyci\u0119ska",
+      "pageName":"Auchan-Supermarket-Wroclaw-Zwycieska",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Zwyci\u0119ska 14b, 53-033 Wroc\u0142aw, Polska",
+         "postalCode":"53-033",
+         "city":"Wroc\u0142aw",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.0590056",
+         "longitude":"17.0093733"
+      }
+   },
+   {
+      "CMSID":172,
+      "id":"2091",
+      "name":"Auchan Supermarket Warszawa Wilan\u00f3w",
+      "pageName":"Auchan-Supermarket-Warszawa-Wilanow",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Aleja Rzeczypospolitej 17\/30, 02-972 Warszawa, Polska",
+         "postalCode":"02-972",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.1626106",
+         "longitude":"21.0701581"
+      }
+   },
+   {
+      "CMSID":156,
+      "id":"3006",
+      "name":"Auchan Supermarket Warszawa Pokorna",
+      "pageName":"Auchan-Supermarket-Warszawa-Pokorna",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Pokorna 2, 00-199 Warszawa, Polska",
+         "postalCode":"00-199",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2547031",
+         "longitude":"20.995033"
+      }
+   },
+   {
+      "CMSID":165,
+      "id":"2088",
+      "name":"Auchan Supermarket Katowice Zadole",
+      "pageName":"Auchan-Supermarket-Katowice-Zadole",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Piotrowicka 14, 40-722 Katowice, Polska",
+         "postalCode":"40-722",
+         "city":"Katowice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.220308",
+         "longitude":"18.969756"
+      }
+   },
+   {
+      "CMSID":2389,
+      "id":"3010",
+      "name":"Auchan Supermarket Gr\u00f3jec",
+      "pageName":"Auchan-Supermarket-Grojec",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Aleja Niepodleg\u0142o\u015bci 22, 05-600 Gr\u00f3jec, Polska",
+         "postalCode":"05-600",
+         "city":"Gr\u00f3jec",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"51.8607553",
+         "longitude":"20.8675496"
+      }
+   },
+   {
+      "CMSID":2127,
+      "id":"20860",
+      "name":"Auchan Supermarket Dobroszyce",
+      "pageName":"auchan-supermarket-dobroszyce",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Ole\u015bnicka 39, 56-410 Dobroszyce, Polska",
+         "postalCode":"56-410",
+         "city":"Dobroszyce",
+         "region":"Dolno\u015bl\u0105skie",
+         "country":"Polska",
+         "latitude":"51.2646093",
+         "longitude":"17.3482909"
+      }
+   },
+   {
+      "CMSID":2129,
+      "id":"20850",
+      "name":"Auchan Supermarket Brwin\u00f3w",
+      "pageName":"auchan-supermarket-brwinow",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Grodziska 46, 05-840 Brwin\u00f3w, Polska",
+         "postalCode":"05-840",
+         "city":"Brwin\u00f3w",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.134899",
+         "longitude":"20.706067"
+      }
+   },
+   {
+      "CMSID":197,
+      "id":"2076",
+      "name":"Auchan \u0141\u00f3d\u017a Tulipan",
+      "pageName":"Auchan-Lodz-Tulipan",
+      "externalUrl":null,
+      "type":"hipermarket",
+      "address":{
+         "address":"al. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego 94A, 94-015 \u0141\u00f3d\u017a, Polska",
+         "postalCode":"94-015",
+         "city":"\u0141\u00f3d\u017a",
+         "region":"\u0141\u00f3dzkie",
+         "country":"Polska",
+         "latitude":"51.7646824",
+         "longitude":"19.4933039"
+      }
+   },
+   {
+      "CMSID":198,
+      "id":"2075",
+      "name":"Auchan \u0141\u00f3d\u017a Polesie",
+      "pageName":"Auchan-Lodz-Polesie",
+      "externalUrl":null,
+      "type":"hipermarket",
+      "address":{
+         "address":"Aleja Jana Paw\u0142a II 28A, 93-570 \u0141\u00f3d\u017a, Polska",
+         "postalCode":"93-570",
+         "city":"\u0141\u00f3d\u017a",
+         "region":"\u0141\u00f3dzkie",
+         "country":"Polska",
+         "latitude":"51.7505865",
+         "longitude":"19.4377601"
+      }
+   },
+   {
+      "CMSID":1189,
+      "id":"2019",
+      "name":"Auchan Katowice",
+      "pageName":"Auchan-Katowice",
+      "externalUrl":null,
+      "type":"hipermarket",
+      "address":{
+         "address":"Trasa Imienia Nikodema i J\u00f3zefa Renc\u00f3w 30, 40-878 Katowice, Polska",
+         "postalCode":"40-878",
+         "city":"Katowice",
+         "region":"\u015al\u0105skie",
+         "country":"Polska",
+         "latitude":"50.273915",
+         "longitude":"18.967228"
+      }
+   },
+   {
+      "CMSID":149,
+      "id":"2078",
+      "name":"Moje Auchan Warszawa Andersena",
+      "pageName":"Moje-Auchan-Warszawa-Andersena",
+      "externalUrl":null,
+      "type":"4",
+      "address":{
+         "address":"Hansa Christiana Andersena 4, 01-911 Warszawa, Polska",
+         "postalCode":"01-911",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.280621",
+         "longitude":"20.936987"
+      }
+   },
+   {
+      "CMSID":10977,
+      "id":"PL_00691_MAG",
+      "name":"Easy Auchan bp Reduta",
+      "pageName":"easy-Auchan-bp-Reduta",
+      "externalUrl":null,
+      "type":"easy-auchan",
+      "address":{
+         "address":"al. Jerozolimskie 144C, 02-305 Warszawa, Polska",
+         "postalCode":"02-305",
+         "city":"Warszawa",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.2152254",
+         "longitude":"20.95621"
+      }
+   },
+   {
+      "CMSID":2388,
+      "id":"2085",
+      "name":"Auchan Supermarket Krak\u00f3w Mackiewicza",
+      "pageName":"Auchan-Supermarket-Krakow-Mackiewicza",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"J\u00f3zefa Mackiewicza 17, 31-214 Krak\u00f3w, Polska",
+         "postalCode":"31-214",
+         "city":"Krak\u00f3w",
+         "region":"Ma\u0142opolskie",
+         "country":"Polska",
+         "latitude":"50.093781",
+         "longitude":"19.9466011"
+      }
+   },
+   {
+      "CMSID":147,
+      "id":"2079",
+      "name":"Auchan Supermarket Konstancin",
+      "pageName":"Auchan-Supermarket-Konstancin",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Warszawska 94, 05-510 Konstancin-Jeziorna, Polska",
+         "postalCode":"05-510",
+         "city":"Konstancin-Jeziorna",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.107942",
+         "longitude":"21.114306"
+      }
+   },
+   {
+      "CMSID":2394,
+      "id":"20855",
+      "name":"Auchan Supermarket J\u00f3zefos\u0142aw",
+      "pageName":"auchan-supermarket-jozefoslaw",
+      "externalUrl":null,
+      "type":"5",
+      "address":{
+         "address":"Geodet\u00f3w 23, 05-500 J\u00f3zefos\u0142aw, Polska",
+         "postalCode":"05-500",
+         "city":"J\u00f3zefos\u0142aw",
+         "region":"Mazowieckie",
+         "country":"Polska",
+         "latitude":"52.093271",
+         "longitude":"21.0379631"
+      }
+   }
+]

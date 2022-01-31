@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Student's</title>
+    </head>
+    <body style="background-color: lightblue;">
+
+
+        <h1>Witamy w Bazie Danych Student's</h1>
+        <img src="/static/logo.jpg"  width="500" height="200"/>
+        <h2>Możliwe zapytania</h2>
+
+        <h5>Znajdz sklepy w swojej Dzielnicy</h5>
+        <form method = "POST">
+            Dzielnica
+            <input name = "district"required>
+            Adres
+            <input name = "address"required>
+            liczba sklepów
+            <input name = "num_of_records" value="10"required>
+            <input type = "submit" name = "query1">
+        </form>
+
+        <h5>Znajdz najbliższy sklep [wpisz swój adres]</h5>
+        <form method = "POST">
+            Adres
+            <input name = "address"required>
+            liczba sklepów
+            <input name = "num_of_records" value="10"required>
+            <input type = "submit" name = "query2"required>
+        </form>
+
+        <h5> Znajdz najtańsze produkty z swojej ulubionej kategorii (PIWO,ENERGETYK,PIZZA)<br>
+            Można opcjonalnie wpisać swój adres wtedy zostaną wyszukane produkty z wybranej kategorii znajdujące sie w najbliższy sklepie
+        </h5>
+        <form method = "POST">
+            kategoria
+            <input name = "category"required>
+            Adres
+            <input name = "address">
+            liczba produktów
+            <input name = "num_of_records" value="10"required>
+            <input type = "submit" name = "query3">
+        </form>
+
+        <h5>Wyszukaj produkt w bliskim sklepie
+            <br>
+            Produkty szukane są w sklepach w odległości 500m
+        </h5>
+        <form method = "POST">
+            produkt
+            <input name = "product" required>
+            Adres
+            <input name = "address" required>
+            <input type = "submit" name = "query4">
+        </form>
+    </body>
+</html>
