@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>sklepy</title>
+        <body>
+            <h2>{{title}}</h2>
+            {% for row in rows %}
+                <br>
+                <a>
+                    {{ row[0] }} 
+                    <br>Ulica {{ row[1] }} {{ row[2] }} 
+                    <br>{{ row[3] }} metrów od ciebie
+
+                    <br>
+                </a>
+            {% endfor %}
+        </body>
+    </head>
+</html>

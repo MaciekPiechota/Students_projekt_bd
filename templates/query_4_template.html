@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>sklepy</title>
+        <body>
+            <h2>{{title}}</h2>
+            {% for row in rows %}
+                <br>
+                <a>{{ row[0] }} {{ row[1] }} {{ row[2] }} 
+                    <br> {{ row[3] }} 
+                    <br>{{ row[4] }} zł 
+                    <br> {{row[5] }} metrów od ciebie</a>
+                <br>
+            {% endfor %}
+        </body>
+    </head>
+</html>
