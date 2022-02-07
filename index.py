@@ -40,7 +40,7 @@ def my_form_post():
         cur = conn.cursor()
 
         cur.execute("""
-            SELECT s.name, l.street, l."number",round(sqrt((111000*(l.latitude - %s))^2+(111000*(l.longitude - %s))^2)) as d
+            SELECT s.name, l.street, l."number",distance(%s,%s,l.latitude,l.longitude) as d
               FROM shop s join localization l 
                 ON s.id = l.id_sklepu AND l.district = %s
                 ORDER BY d
